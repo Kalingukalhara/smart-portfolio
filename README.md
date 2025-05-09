@@ -1,12 +1,37 @@
-# React + Vite
+#  Kalingu Kalhara's Smart Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive developer portfolio built with **React**, **Vite**, **Tailwind CSS**, **Framer Motion**, and **EmailJS**. This site showcases my featured projects, includes a contact form with email integration, and provides a downloadable CV.
 
-Currently, two official plugins are available:
+##  Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [https://kalingu-portfolio.netlify.app](https://kalingu-portfolio.netlify.app)
 
-## Expanding the ESLint configuration
+##  Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-  Clean one-page layout with smooth scrolling navigation
+-  Project cards with titles and descriptions
+-  Functional contact form using EmailJS
+-  CV download button
+-  Tailwind CSS for styling
+-  Framer Motion animations
+-  Deployed via Netlify
+
+##  Preview
+
+![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Add+Screenshot+Here)
+
+##  Technologies Used
+
+- React + Vite
+- Tailwind CSS
+- Framer Motion
+- EmailJS
+- Netlify
+
+##  Clone This Repo
+
+```bash
+git clone https://github.com/Kalingukalhara/smart-portfolio.git
+cd smart-portfolio
+npm install
+npm run dev
